@@ -1,0 +1,7 @@
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\function\bin\Debug\function.exe.config
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\function\bin\Debug\function.exe
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\function\bin\Debug\function.pdb
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\function\obj\Debug\function.csprojAssemblyReference.cache
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\function\obj\Debug\function.exe
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\function\obj\Debug\function.pdb

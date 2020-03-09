@@ -1,0 +1,7 @@
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Data types and variables\bin\Debug\Data types and variables.exe.config
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Data types and variables\bin\Debug\Data types and variables.exe
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Data types and variables\bin\Debug\Data types and variables.pdb
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Data types and variables\obj\Debug\Data types and variables.csprojAssemblyReference.cache
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Data types and variables\obj\Debug\Data types and variables.csproj.CoreCompileInputs.cache
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Data types and variables\obj\Debug\Data types and variables.exe
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Data types and variables\obj\Debug\Data types and variables.pdb

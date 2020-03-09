@@ -1,0 +1,6 @@
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Object and classes\bin\Debug\Object and classes.exe.config
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Object and classes\bin\Debug\Object and classes.exe
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Object and classes\bin\Debug\Object and classes.pdb
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Object and classes\obj\Debug\Object and classes.csproj.CoreCompileInputs.cache
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Object and classes\obj\Debug\Object and classes.exe
+C:\Users\Anjan Tiwari\source\repos\C sharp concepts\Object and classes\obj\Debug\Object and classes.pdb
